@@ -1,34 +1,3 @@
-dfsdfsdgfsd
-sdgsdgsd
-gsdg
-sdsd
-sdsds
-dgs
-d
-gsdgsdg
-sdgsdgsdf
-ggjh
-m,hj
-,jk,k
-,jk
-,jk
-,jk,jk,j
+First commit staged
 
-new line 1
-
-new line 2
-
-new line 3
-
-
-dfwdef
-wde
-fd
-sd
-
-adfgerg
-edgfredfe
-r
-ergredfsafe
-
-
+Second commit staged
